@@ -1,5 +1,5 @@
 # Estoque + 
-Versão 2.0.5
+
 <p align="center" >
   <img src="https://github.com/LucasFujarra/EstoqueApp/blob/main/assets/back..png" width="35%" />
 </p>
