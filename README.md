@@ -4,7 +4,7 @@ Versão 2.0.5
   <img src="https://github.com/LucasFujarra/EstoqueApp/blob/main/assets/back..png" width="35%" />
 </p>
 
-### O Estoque+ reune as principais funções de gestão de estoque e expedição de produtos.
+### O Estoque+ é um aplicativo Android que reune as principais funções de gestão de estoque e expedição de produtos.
 
 # Funcionalidades 🛠
 * Tms UX Delivery
